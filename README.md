@@ -1,12 +1,15 @@
 # Loom.ai
 
-The Problem: Relational Atrophy
+## The Problem: Relational Atrophy
 In Dementia, the ‘Ending’ happens twice: first when the shared history vanishes, and second when the body fails. Between those two points is a “Dead Zone” where caregivers stop connecting and start managing. We are mending the Conversational Bridge to ensure that personhood doesn't “end” before the life does.
 
-The Solution: An Agentic Relational Prosthetic
+## The Solution: An Agentic Relational Prosthetic
 Loom.ai is a real-time AI ecosystem designed to collapse the friction of caregiving. By harvesting a patient’s “Digital Exhaust”—Gmail archives, Google Photos metadata, and Spotify anchors—we synthesize a Spatio-Temporal Knowledge Graph of their identity.
 
-Core Features
+
+
+
+## Core Features
 The Aural Suture: A voice-first agent that whispers real-time conversational "bridges" into a caregiver’s ear to turn confusion into shared memories.
 
 The Identity Compass: A visual HUD that tracks the patient’s current “mental era” and surfaces matching media anchors.
@@ -15,7 +18,10 @@ The Ghostwriter: A response-synthesis engine that uses the patient’s past lett
 
 The Connection Pulse: A real-time bio-feedback visualization of Relational Synchrony, using Cross-Recurrence Quantification Analysis (CRQA) to measure tonal and rhythmic coupling between speakers.
 
-Technical Architecture
+
+
+
+## Technical Architecture
 Suture operates on a unified Agentic Loop:
 
 Ingest: VAD → STT pipeline processes environmental audio.
@@ -27,11 +33,11 @@ Synthesis: The LLM generates a localized "suture" based on caregiver-defined Nar
 Validation: CRQA analyzes the resulting interaction to visualize resonance on the Connection Pulse.
 
 
-https://docs.google.com/presentation/d/1NIaW4USpRJeKuY5i31jIdOqYwmCZDAhVP_t14W6ixBc/edit?usp=sharing
 
+## Demo
+https://docs.google.com/presentation/d/1NIaW4USpRJeKuY5i31jIdOqYwmCZDAhVP_t14W6ixBc/edit?usp=sharing
 https://www.figma.com/design/ElwIXOha7OSFQSdjpjr2fE/Loom-Screens?node-id=0-1&t=3YdnsF7ggbdNm5Yb-1
 
-- demo
 
 
 Onboarding & Privacy
