@@ -1,0 +1,50 @@
+{
+  "demoTitle": "Loom.ai - The Invisible Suture (Real-Time Agentic Loop)",
+  "metadata": {
+    "version": "1.0",
+    "mode": "Seamless Agentic",
+    "patient": "Evelyn Johnson",
+    "caregiver": "Denise (Daughter)"
+  },
+  "context_anchors": {
+    "golden_era": "1974 - Early Marriage",
+    "primary_location": "Maple Street Bakery",
+    "peace_over_truth_protocol": true
+  },
+  "suture_logic": [
+    {
+      "id": "exit_seeking_moment",
+      "trigger_phrases": ["you are safe in your room"],
+      "inhabited_era": "1974",
+      "suture_whisper": "She is inhabiting 1974. Stop the correction. Ask about the sewing kit in the Corolla's glove box.",
+      "outcome_visual": "Identity Compass shifts to 1974; Pulse smooths from Red to Amber."
+    },
+    {
+      "id": "place_dissonance_moment",
+      "trigger_phrases": ["why am i in this hospital"],
+      "reorientation_strategy": "Sensory Anchor",
+      "suture_whisper": "Reorient via sensory anchors. Point to the window. Mention the evening light hitting the bakery on Maple Street.",
+      "outcome_visual": "Identity Compass highlights 'Maple Street Bakery' node."
+    },
+    {
+      "id": "identity_snap_moment",
+      "trigger_phrases": ["i want my husband"],
+      "mending_strategy": "Relational Travel",
+      "suture_whisper": "Travel to her reality. Ask what flowers Bob brought to the station—the yellow roses.",
+      "outcome_visual": "Relational Synchrony (CRQA) begins to rise."
+    },
+    {
+      "id": "ghost_shadow_service",
+      "trigger_phrases": ["at the station"],
+      "philosophy": "Peace over Truth",
+      "suture_whisper": "Ghost Shadow Service: Peace over Truth. He is resting for the evening. Suggest playing 'Autumn Leaves'.",
+      "action_trigger": "play_music_autumn_leaves",
+      "outcome_visual": "Pulse locks into Stable Green; Resonance Achieved (0.92)."
+    }
+  ],
+  "global_veto": [
+    "i am your nurse",
+    "take a deep breath",
+    "you've lived here for two years"
+  ]
+}
