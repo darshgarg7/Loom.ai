@@ -4,7 +4,7 @@ The Problem: Relational Atrophy
 In Dementia, the ‘Ending’ happens twice: first when the shared history vanishes, and second when the body fails. Between those two points is a “Dead Zone” where caregivers stop connecting and start managing. We are mending the Conversational Bridge to ensure that personhood doesn't “end” before the life does.
 
 The Solution: An Agentic Relational Prosthetic
-Suture is a real-time AI ecosystem designed to collapse the friction of caregiving. By harvesting a patient’s “Digital Exhaust”—Gmail archives, Google Photos metadata, and Spotify anchors—we synthesize a Spatio-Temporal Knowledge Graph of their identity.
+Loom.ai is a real-time AI ecosystem designed to collapse the friction of caregiving. By harvesting a patient’s “Digital Exhaust”—Gmail archives, Google Photos metadata, and Spotify anchors—we synthesize a Spatio-Temporal Knowledge Graph of their identity.
 
 Core Features
 The Aural Suture: A voice-first agent that whispers real-time conversational "bridges" into a caregiver’s ear to turn confusion into shared memories.
