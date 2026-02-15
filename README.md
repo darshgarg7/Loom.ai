@@ -26,6 +26,12 @@ Synthesis: The LLM generates a localized "suture" based on caregiver-defined Nar
 
 Validation: CRQA analyzes the resulting interaction to visualize resonance on the Connection Pulse.
 
+
+https://docs.google.com/presentation/d/1NIaW4USpRJeKuY5i31jIdOqYwmCZDAhVP_t14W6ixBc/edit?usp=sharing
+
+- demo
+
+
 Onboarding & Privacy
 We solve the Consent Gap through a Zero-Knowledge Legacy Protocol. Data is uploaded to build the Knowledge Graph, but access is only triggered via a pre-authorized Relational Key provided by a designated Legacy Trustee.
 
