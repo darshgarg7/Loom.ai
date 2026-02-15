@@ -29,6 +29,8 @@ Validation: CRQA analyzes the resulting interaction to visualize resonance on th
 
 https://docs.google.com/presentation/d/1NIaW4USpRJeKuY5i31jIdOqYwmCZDAhVP_t14W6ixBc/edit?usp=sharing
 
+https://www.figma.com/design/ElwIXOha7OSFQSdjpjr2fE/Loom-Screens?node-id=0-1&t=3YdnsF7ggbdNm5Yb-1
+
 - demo
 
 
